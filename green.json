@@ -1,0 +1,11 @@
+{
+  "endpoints" : {
+      "backendURL" : "https://nginz-https.green.mobtown.wire.link",
+      "backendWSURL": "https://nginz-ssl.green.mobtown.wire.link",
+      "blackListURL": "https://clientblacklist.wire.com/staging",
+      "teamsURL": "https://teams.green.mobtown.wire.link",
+      "accountsURL": "https://account.green.mobtown.wire.link",
+      "websiteURL": "https://wire.com"
+   },
+   "title" : "green.mobtown.wire.link"
+}
