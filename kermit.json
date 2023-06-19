@@ -1,0 +1,11 @@
+{
+  "endpoints" : {
+      "backendURL" : "https://nginz-https.kermit.mobtown.wire.systems",
+      "backendWSURL": "https://nginz-ssl.kermit.mobtown.wire.systems",
+      "blackListURL": "https://clientblacklist.wire.com/staging",
+      "teamsURL": "https://teams.kermit.mobtown.wire.systems",
+      "accountsURL": "https://account.kermit.mobtown.wire.systems",
+      "websiteURL": "https://wire.com"
+   },
+   "title" : "kermit.mobtown.wire.systems"
+}
